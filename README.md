@@ -1,1 +1,1 @@
- https://kanizfatemamarzia.github.io/e_school/figma.html
+ https://kanizfatemamarzia.github.io/eschool/figma.html
